@@ -1,0 +1,20 @@
+2025-08-14 23:44:26.328 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-14 23:44:26.347 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-14 23:44:26.347 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-14 23:44:27.033 [info] Started local extension host with pid 110860.
+2025-08-14 23:44:28.063 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-08-14 23:44:28.064 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-08-14 23:44:28.064 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-08-14 23:44:30.648 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-14 23:44:31.236 [info] [perf] Render performance baseline is 35ms
+2025-08-14 23:44:32.958 [info] Extension host (LocalProcess pid: 110860) is unresponsive.
+2025-08-14 23:44:33.565 [error] [Extension Host] (node:110860) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-08-14 23:44:33.768 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-08-14 23:44:33.800 [info] Extension host (LocalProcess pid: 110860) is responsive.
+2025-08-14 23:44:33.800 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-08-14 23:44:36.079 [error] An unknown error occurred. Please consult the log for more details.
+2025-08-14 23:44:50.020 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-08-14 23:44:50.021 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-08-14 23:44:50.022 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-08-14 23:44:50.919 [error] [Extension Host] (node:110860) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
