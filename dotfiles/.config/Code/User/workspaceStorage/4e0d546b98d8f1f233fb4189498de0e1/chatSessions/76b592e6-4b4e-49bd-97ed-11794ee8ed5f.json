@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "requesterUsername": "DouglasMedeiros1",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/80690245",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "76b592e6-4b4e-49bd-97ed-11794ee8ed5f",
+  "creationDate": 1755459359034,
+  "isImported": false,
+  "lastMessageDate": 1755459359034
+}

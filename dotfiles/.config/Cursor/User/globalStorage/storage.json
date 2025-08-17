@@ -1,0 +1,64 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "e0c61294fbc41f207cc5254ded54516ef4d46aa8b4cbd9a03ada5d67ec86914f",
+    "telemetry.macMachineId": "e7a47ca6d42a76149c961256b79808eb32f73f76de240d15d609f9ecd20dc33a",
+    "telemetry.devDeviceId": "ca08735c-2edf-4dcc-9c36-509199272cec",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1755218030225"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1755218030225": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/douglas-linuxvm/.config/Cursor/Backups/1755218030225",
+            "uiState": {
+                "mode": 1,
+                "x": 967,
+                "y": 550,
+                "width": 931,
+                "height": 478
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1a1a1a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

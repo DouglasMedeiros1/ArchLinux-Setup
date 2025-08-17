@@ -1,0 +1,19 @@
+# Ignorar arquivos pesados
+*.iso
+*.zip
+*.tar.gz
+*.tar.xz
+*.zst
+
+# Android SDK e cache
+Android/
+.cache/
+.local/share/Trash/
+.local/share/fonts/*_bigfont*
+
+# Imagens muito pesadas
+*.jpg
+
+# Arquivos maiores que 100MB (GitHub rejeita)
+*.mp4
+*.AppImage

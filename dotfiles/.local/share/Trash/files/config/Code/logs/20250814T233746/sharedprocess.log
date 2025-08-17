@@ -1,0 +1,103 @@
+2025-08-14 23:38:28.156 [info] Getting Manifest... ms-python.python
+2025-08-14 23:38:28.268 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:38:28.727 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-08-14 23:38:28.755 [info] Getting Manifest... ms-python.vscode-pylance
+2025-08-14 23:38:28.783 [info] Getting Manifest... ms-python.debugpy
+2025-08-14 23:38:28.812 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-14 23:38:28.813 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-14 23:38:28.815 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-14 23:38:31.716 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1809ms.
+2025-08-14 23:38:31.727 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 1721ms.
+2025-08-14 23:38:31.746 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1782ms.
+2025-08-14 23:38:32.572 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64: ms-python.vscode-python-envs
+2025-08-14 23:38:32.595 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64
+2025-08-14 23:38:33.565 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64: ms-python.debugpy
+2025-08-14 23:38:33.594 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ms-python.debugpy-2025.10.0-linux-x64
+2025-08-14 23:38:33.883 [info] Getting Manifest... ritwickdey.liveserver
+2025-08-14 23:38:34.074 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:38:34.531 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 996ms.
+2025-08-14 23:38:36.487 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 1615ms.
+2025-08-14 23:38:39.422 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ms-python.python-2025.12.0-linux-x64: ms-python.python
+2025-08-14 23:38:39.479 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-08-14 23:38:39.591 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:38:39.643 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ms-python.python-2025.12.0-linux-x64
+2025-08-14 23:38:39.823 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-08-14 23:38:40.045 [error] Error while getting the latest version for the extension vscode.yaml from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Unexpected HTTP response: 503
+2025-08-14 23:38:40.694 [info] Getting Manifest... github.copilot
+2025-08-14 23:38:40.794 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:38:40.892 [info] Getting Manifest... github.copilot-chat
+2025-08-14 23:38:40.919 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-14 23:38:41.190 [info] Installing extension: ms-azuretools.vscode-containers {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-08-14 23:38:43.193 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 1273ms.
+2025-08-14 23:38:43.266 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 1340ms.
+2025-08-14 23:38:43.344 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 1482ms.
+2025-08-14 23:38:43.552 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Internal Code: 0. Executed: true. Duration: 1776ms.
+2025-08-14 23:38:43.618 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ms-azuretools.vscode-docker-2.0.0: ms-azuretools.vscode-docker
+2025-08-14 23:38:43.636 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ms-azuretools.vscode-docker-2.0.0
+2025-08-14 23:38:43.981 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ms-azuretools.vscode-containers-2.1.0: ms-azuretools.vscode-containers
+2025-08-14 23:38:44.008 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ms-azuretools.vscode-containers-2.1.0
+2025-08-14 23:38:44.066 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:44.066 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:44.392 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1: github.copilot-chat
+2025-08-14 23:38:44.420 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1
+2025-08-14 23:38:45.622 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/github.copilot-1.350.0: github.copilot
+2025-08-14 23:38:45.636 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/github.copilot-1.350.0
+2025-08-14 23:38:45.687 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:45.688 [info] Extension installed successfully: github.copilot vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:51.329 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-08-14 23:38:51.640 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-08-14 23:38:51.689 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:59.366 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ms-python.vscode-pylance-2025.7.1: ms-python.vscode-pylance
+2025-08-14 23:38:59.648 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ms-python.vscode-pylance-2025.7.1
+2025-08-14 23:38:59.686 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:59.686 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:59.686 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:38:59.686 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:39:14.825 [info] Getting Manifest... pkief.material-icon-theme
+2025-08-14 23:39:14.961 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:39:16.424 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 830ms.
+2025-08-14 23:39:18.919 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/pkief.material-icon-theme-5.25.0: pkief.material-icon-theme
+2025-08-14 23:39:18.965 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/pkief.material-icon-theme-5.25.0
+2025-08-14 23:39:18.999 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:39:21.491 [info] Getting Manifest... ecmel.vscode-html-css
+2025-08-14 23:39:21.579 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:39:22.890 [info] Extension signature verification result for ecmel.vscode-html-css: Success. Internal Code: 0. Executed: true. Duration: 808ms.
+2025-08-14 23:39:22.913 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/ecmel.vscode-html-css-2.0.13: ecmel.vscode-html-css
+2025-08-14 23:39:22.924 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/ecmel.vscode-html-css-2.0.13
+2025-08-14 23:39:22.958 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:39:27.943 [info] Getting Manifest... github.github-vscode-theme
+2025-08-14 23:39:27.974 [info] Installing extension: github.github-vscode-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:39:29.328 [info] Extension signature verification result for github.github-vscode-theme: Success. Internal Code: 0. Executed: true. Duration: 933ms.
+2025-08-14 23:39:29.400 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/github.github-vscode-theme-6.3.5: github.github-vscode-theme
+2025-08-14 23:39:29.416 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/github.github-vscode-theme-6.3.5
+2025-08-14 23:39:29.456 [info] Extension installed successfully: github.github-vscode-theme vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:40:02.703 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-08-14 23:40:02.793 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:40:06.108 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Internal Code: 0. Executed: true. Duration: 1434ms.
+2025-08-14 23:40:06.282 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.26: bradlc.vscode-tailwindcss
+2025-08-14 23:40:06.297 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.26
+2025-08-14 23:40:06.401 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:40:15.942 [info] Getting Manifest... abusaidm.html-snippets
+2025-08-14 23:40:16.052 [info] Installing extension: abusaidm.html-snippets {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:40:17.722 [info] Extension signature verification result for abusaidm.html-snippets: Success. Internal Code: 0. Executed: true. Duration: 1059ms.
+2025-08-14 23:40:17.759 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+2025-08-14 23:40:17.775 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/abusaidm.html-snippets-0.2.1
+2025-08-14 23:40:17.810 [info] Extension installed successfully: abusaidm.html-snippets vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:40:48.645 [info] Getting Manifest... oracle.oracle-java
+2025-08-14 23:40:48.791 [info] Installing extension: oracle.oracle-java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:40:53.737 [info] Extension signature verification result for oracle.oracle-java: Success. Internal Code: 0. Executed: true. Duration: 1352ms.
+2025-08-14 23:41:04.242 [info] Getting Manifest... redhat.java
+2025-08-14 23:41:04.390 [info] Installing extension: redhat.java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:41:06.855 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/oracle.oracle-java-24.0.0: oracle.oracle-java
+2025-08-14 23:41:06.952 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/oracle.oracle-java-24.0.0
+2025-08-14 23:41:06.988 [info] Extension installed successfully: oracle.oracle-java vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:41:16.885 [info] Getting Manifest... adelphes.android-dev-ext
+2025-08-14 23:41:17.043 [info] Installing extension: adelphes.android-dev-ext {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
+2025-08-14 23:41:28.174 [info] Extension signature verification result for adelphes.android-dev-ext: Success. Internal Code: 0. Executed: true. Duration: 2550ms.
+2025-08-14 23:41:29.561 [info] Extension signature verification result for redhat.java: Success. Internal Code: 0. Executed: true. Duration: 2073ms.
+2025-08-14 23:41:34.080 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/adelphes.android-dev-ext-1.4.0: adelphes.android-dev-ext
+2025-08-14 23:41:34.205 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/adelphes.android-dev-ext-1.4.0
+2025-08-14 23:41:34.273 [info] Extension installed successfully: adelphes.android-dev-ext vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json
+2025-08-14 23:41:36.732 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/redhat.java-1.44.0-linux-x64: redhat.java
+2025-08-14 23:41:36.783 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/redhat.java-1.44.0-linux-x64
+2025-08-14 23:41:36.871 [info] Extension installed successfully: redhat.java vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json

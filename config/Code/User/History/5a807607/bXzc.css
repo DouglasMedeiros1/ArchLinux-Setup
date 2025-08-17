@@ -1,0 +1,112 @@
+/***** BASE GLOBAL *****/
+* {
+font-family: "JetBrainsMono Nerd Font", monospace;
+font-size: 12;
+border: none;
+}
+
+window {
+background: transparent;
+color: #eeeeee; /* texto claro sobre fundo escuro */
+}
+
+/* Ajuste de margens dos botões */
+button {
+margin: 4px 6px;
+padding: 6px 12px;
+border-radius: 10px;
+background: rgba(30, 30, 30, 0.6);
+backdrop-filter: blur(10px);
+transition: background 0.2s ease;
+}
+
+/* Hover dos botões */
+button:hover {
+background: rgba(50, 50, 50, 0.8);
+}
+
+/***** TASK / WORKSPACES *****/
+#task-box {
+padding-left: 6px;
+padding-right: 6px;
+margin: 2px;
+border-radius: 8px;
+background: rgba(40, 40, 40, 0.5);
+}
+
+#task-box-focused {
+background-color: rgba(100, 100, 100, 0.7);
+color: #ffffff;
+padding-left: 6px;
+padding-right: 6px;
+border-radius: 8px;
+}
+
+/***** CONTROLS / POPUPS *****/
+#controls-window,
+#brightness-popup {
+border-radius: 15px;
+background: rgba(54, 54, 79, 0.9);
+color: #eeeeee;
+padding: 10px;
+backdrop-filter: blur(10px);
+}
+
+/* Sliders e escalas */
+#controls-window scale value,
+#brightness-popup box {
+color: #eeeeee;
+padding: 10px;
+}
+
+/***** CLOCK / WEATHER *****/
+#clock,
+#weather,
+#executor-label {
+font-family: monospace;
+font-size: 16px;
+padding: 6px 10px;
+border-radius: 8px;
+background: rgba(30, 30, 30, 0.6);
+backdrop-filter: blur(8px);
+}
+
+#clock:hover,
+#weather:hover,
+#executor-label:hover {
+background: rgba(50, 50, 50, 0.8);
+}
+
+/***** DWL TAGS / WORKSPACES *****/
+#dwl-tag-box {
+padding: 4px 0;
+margin: 2px;
+display: flex;
+gap: 4px;
+}
+
+#dwl-tag-occupied,
+#dwl-tag-free,
+#dwl-tag-urgent {
+font-family: monospace;
+color: #eeeeee;
+padding: 4px 8px;
+border-radius: 6px;
+}
+
+#dwl-tag-occupied {
+background-color: #006699;
+}
+
+#dwl-tag-free {
+background-color: rgba(32, 50, 90, 1.0);
+}
+
+#dwl-tag-urgent {
+background-color: #ee6600;
+}
+
+#dwl-tag-selected {
+border: solid 2px #81a1c1;
+border-radius: 6px;
+}

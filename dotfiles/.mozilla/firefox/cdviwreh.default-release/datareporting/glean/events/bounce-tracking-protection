@@ -1,0 +1,13 @@
+{"timestamp":3635582,"category":"bounce.tracking.protection","name":"purge_action","extra":{"site_host":"linuxcapable.com","bounce_time":"1755293740","success":"true","glean_timestamp":"1755441453061","require_stateful_bounces":"true","is_dry_run":"true"},"execution_counter":1}
+{"timestamp":14165132,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T16:30-03:00","glean_timestamp":"1755459056202"},"execution_counter":2}
+{"timestamp":1669807,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T17:00-03:00","glean_timestamp":"1755460841976"},"execution_counter":3}
+{"timestamp":4361032,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1755463533200","glean.startup.date":"2025-08-17T17:45-03:00"},"execution_counter":4}
+{"timestamp":4758470,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T17:52-03:00","glean_timestamp":"1755463930639"},"execution_counter":5}
+{"timestamp":5438043,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T18:03-03:00","glean_timestamp":"1755464610212"},"execution_counter":6}
+{"timestamp":5471082,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1755464643251","glean.startup.date":"2025-08-17T18:04-03:00"},"execution_counter":7}
+{"timestamp":853560,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T18:56-03:00","glean_timestamp":"1755467814088"},"execution_counter":8}
+{"timestamp":1452502,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T19:06-03:00","glean_timestamp":"1755468413030"},"execution_counter":9}
+{"timestamp":2028656,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T19:16-03:00","glean_timestamp":"1755468989184"},"execution_counter":10}
+{"timestamp":2388261,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T19:22-03:00","glean_timestamp":"1755469348790"},"execution_counter":11}
+{"timestamp":2422285,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T19:23-03:00","glean_timestamp":"1755469382813"},"execution_counter":12}
+{"timestamp":2611684,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2025-08-17T19:26-03:00","glean_timestamp":"1755469572212"},"execution_counter":13}

@@ -1,0 +1,85 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "e7a47ca6d42a76149c961256b79808eb32f73f76de240d15d609f9ecd20dc33a",
+    "telemetry.devDeviceId": "ca08735c-2edf-4dcc-9c36-509199272cec",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///"
+            },
+            {
+                "folderUri": "file:///home/douglas-linuxvm/setup"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/douglas-linuxvm/setup": "__default__profile__",
+            "file:///": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/douglas-linuxvm/setup",
+            "backupPath": "/home/douglas-linuxvm/.config/Code/Backups/9af78ccce44c815a1a2a99479cfa42da",
+            "uiState": {
+                "mode": 1,
+                "x": 967,
+                "y": 58,
+                "width": 931,
+                "height": 970
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#22272e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#adbac7",
+            "background": "#22272e",
+            "editorBackground": "#22272e",
+            "titleBarBackground": "#22272e",
+            "titleBarBorder": "#444c56",
+            "activityBarBackground": "#22272e",
+            "activityBarBorder": "#444c56",
+            "sideBarBackground": "#1c2128",
+            "sideBarBorder": "#444c56",
+            "statusBarBackground": "#22272e",
+            "statusBarBorder": "#444c56",
+            "statusBarNoFolderBackground": "#22272e"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 289,
+            "workspaces": {
+                "099d7d74ab10afae9a1ca9c9800f8b5e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a457f0e3d162d8f8aadf2d0e621623e7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

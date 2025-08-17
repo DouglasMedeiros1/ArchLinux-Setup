@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cursor
+Comment=Editor de codigo Cursor IDE
+Exec=/home/douglas-linuxvm/Softwares/cursor/squashfs-root/AppRun
+Icon=/home/douglas-linuxvm/Softwares/cursor/squashfs-root/.DirIcon
+Terminal=false
+Type=Application
+Categories=Development;IDE;

@@ -1,0 +1,9 @@
+android-studio
+brave-bin
+github-desktop-bin
+github-desktop-bin-debug
+libpamac-aur
+pamac-aur
+visual-studio-code-bin
+yay
+yay-debug

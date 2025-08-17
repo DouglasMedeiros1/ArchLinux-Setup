@@ -1,0 +1,34 @@
+2025-08-17 18:57:23.958 [info] Extension host with pid 3030 started
+2025-08-17 18:57:24.201 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-17 18:57:24.396 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-17 18:57:24.458 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-17 18:57:24.558 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-17 18:57:25.042 [info] Eager extensions activated
+2025-08-17 18:57:25.078 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:25.093 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:25.125 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:25.223 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:25.232 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:28.185 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:29.412 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:29.446 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:45.662 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-17 18:57:45.748 [info] Extension host with pid 3030 exiting with code 0
+2025-08-17 18:57:49.462 [info] Extension host with pid 3095 started
+2025-08-17 18:57:49.462 [info] Skipping acquiring lock for /home/douglas-linuxvm/.config/Code/User/workspaceStorage/8d87c1fbeff9a9a1f6c1c40558ed187c.
+2025-08-17 18:57:49.947 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-17 18:57:50.023 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-17 18:57:50.095 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2025-08-17 18:57:51.051 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-17 18:57:51.234 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-17 18:57:51.313 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-17 18:57:51.642 [info] Eager extensions activated
+2025-08-17 18:57:51.837 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:51.843 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:51.889 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:51.995 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:51.999 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:54.511 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:57:54.532 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-17 18:59:16.899 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-17 18:59:17.447 [info] Extension host with pid 3095 exiting with code 0

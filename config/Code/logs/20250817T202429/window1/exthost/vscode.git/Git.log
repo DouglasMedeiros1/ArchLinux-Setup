@@ -1,0 +1,33 @@
+2025-08-17 20:24:35.242 [info] [main] Log level: Info
+2025-08-17 20:24:35.242 [info] [main] Validating found git in: "git"
+2025-08-17 20:24:35.242 [info] [main] Using git "2.50.1" from "git"
+2025-08-17 20:24:35.242 [info] [Model][doInitialScan] Initial repository scan started
+2025-08-17 20:24:35.242 [info] > git rev-parse --show-toplevel [36ms]
+2025-08-17 20:24:35.242 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2025-08-17 20:24:35.242 [info] [Model][openRepository] Opened repository (path): /home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup
+2025-08-17 20:24:35.242 [info] [Model][openRepository] Opened repository (real path): /home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup
+2025-08-17 20:24:35.242 [info] [Model][openRepository] Opened repository (kind): repository
+2025-08-17 20:24:35.242 [info] > git config --get commit.template [7ms]
+2025-08-17 20:24:35.242 [info] > git rev-parse --show-toplevel [3ms]
+2025-08-17 20:24:35.242 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-08-17 20:24:35.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-08-17 20:24:35.242 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-08-17 20:24:35.246 [info] > git status -z -uall [195ms]
+2025-08-17 20:24:38.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3401ms]
+2025-08-17 20:24:39.326 [info] > git check-ignore -v -z --stdin [614ms]
+2025-08-17 20:24:39.327 [info] > git config --get --local branch.main.vscode-merge-base [626ms]
+2025-08-17 20:24:39.331 [info] > git config --get commit.template [649ms]
+2025-08-17 20:24:39.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [49ms]
+2025-08-17 20:24:39.420 [info] > git merge-base refs/heads/main refs/remotes/origin/main [30ms]
+2025-08-17 20:24:39.812 [info] > git show --textconv :.gitignore [365ms]
+2025-08-17 20:24:39.813 [info] > git ls-files --stage -- .gitignore [357ms]
+2025-08-17 20:24:39.817 [info] > git diff --name-status -z --diff-filter=ADMR ceebfe9dc3af110d5e188a56a9e033c53732e115...refs/remotes/origin/main [384ms]
+2025-08-17 20:24:39.817 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [405ms]
+2025-08-17 20:24:39.830 [info] > git cat-file -s c69e65f1aac4c4f27509b5123dc21800aac453d6 [14ms]
+2025-08-17 20:24:40.377 [info] > git status -z -uall [29ms]
+2025-08-17 20:24:40.377 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-08-17 20:24:40.455 [info] > git blame --root --incremental ceebfe9dc3af110d5e188a56a9e033c53732e115 -- .gitignore [24ms]
+2025-08-17 20:24:41.080 [info] > git config --get commit.template [0ms]
+2025-08-17 20:24:41.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-08-17 20:24:41.219 [info] > git status -z -uall [88ms]
+2025-08-17 20:24:41.226 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [88ms]

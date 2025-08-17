@@ -1,0 +1,27 @@
+2025-08-17 18:59:12.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-17 18:59:12.474 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-17 18:59:12.475 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-17 18:59:13.654 [info] Started local extension host with pid 3316.
+2025-08-17 18:59:14.075 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-08-17 18:59:14.078 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-08-17 18:59:14.080 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-08-17 18:59:16.771 [error] [Extension Host] (node:3316) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-08-17 18:59:21.283 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-17 18:59:22.177 [info] [perf] Render performance baseline is 49ms
+2025-08-17 18:59:22.945 [info] Extension host (LocalProcess pid: 3316) is unresponsive.
+2025-08-17 18:59:22.984 [info] Extension host (LocalProcess pid: 3316) is responsive.
+2025-08-17 18:59:23.161 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-08-17 18:59:23.728 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-08-17 18:59:24.041 [warning] UNRESPONSIVE extension host: 'github.copilot' took 63.0826026765113% of 1.367ms, saved PROFILE here: 'file:///tmp/exthost-40a538.cpuprofile'
+2025-08-17 18:59:39.804 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-17 18:59:39.804 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-17 18:59:39.804 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-17 18:59:41.078 [info] Started local extension host with pid 3446.
+2025-08-17 18:59:41.820 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2025-08-17 18:59:41.826 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2025-08-17 18:59:41.827 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2025-08-17 18:59:44.355 [error] [Extension Host] (node:3446) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-08-17 18:59:47.016 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-08-17 18:59:48.124 [info] [perf] Render performance baseline is 35ms

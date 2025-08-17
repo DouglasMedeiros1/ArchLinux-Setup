@@ -1,0 +1,101 @@
+2025-08-15T22:29:46.697Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-08-15T22:29:46.753Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:46.796Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:46.800Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.0-arch2-1)
+2025-08-15T22:29:46.800Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-08-15T22:29:46.813Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:46.836Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:46.869Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:46.879Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:46.894Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:29:47.608Z - info: [ui] Opt in reported.
+2025-08-15T22:29:48.508Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2025-08-15T22:29:48.516Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-15T22:29:48.517Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=b63356ac-86c7-467c-88e2-902da2fa3b99
+2025-08-15T22:29:48.518Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2025-08-15T22:29:50.109Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:29:50.124Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:29:55.449Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:29:55.500Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:00.150Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:00.163Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:00.480Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:00.499Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:07.253Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:07.273Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:08.240Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:11.321Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:14.378Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2025-08-15T22:30:16.763Z - info: [ui] [Welcome] advancing to step: Start
+2025-08-15T22:30:18.486Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2025-08-15T22:30:18.496Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-15T22:30:18.496Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=8f824e0d-3020-4236-a89b-c1c34b2e326c
+2025-08-15T22:30:18.496Z - info: [ui] [SignInStore] OAuth error but session has changed: Error: cancelled
+2025-08-15T22:30:18.503Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:19.351Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:30:19.371Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:31:20.284Z - info: [main] Received possible protocol arguments: 3
+2025-08-15T22:31:20.284Z - info: [main] Processing protocol url
+2025-08-15T22:31:20.302Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2025-08-15T22:31:20.365Z - info: [main] Received possible protocol arguments: 2
+2025-08-15T22:31:20.369Z - info: [main] Processing protocol url
+2025-08-15T22:31:21.303Z - info: [ui] [SignInStore] account resolved
+2025-08-15T22:31:21.304Z - info: [ui] [AppStore] adding account DouglasMedeiros1 (Douglas F. Medeiros) to store
+2025-08-15T22:31:21.314Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2025-08-15T22:31:21.365Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:31:21.775Z - info: [ui] Subscribed 'DouglasMedeiros1' to Alive channel
+2025-08-15T22:31:22.259Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:31:23.012Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2025-08-15T22:32:03.772Z - info: [ui] [AppStore] loading 0 repositories from store
+2025-08-15T22:32:03.782Z - info: [ui] [AppStore] found account: DouglasMedeiros1 (Douglas F. Medeiros)
+2025-08-15T22:32:03.848Z - info: [ui] Subscribed 'DouglasMedeiros1' to Alive channel
+2025-08-15T22:32:03.965Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.0-arch2-1)
+2025-08-15T22:32:03.966Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-08-15T22:32:04.580Z - info: [ui] Stats reported.
+2025-08-15T22:32:33.708Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-08-15T22:32:34.390Z - info: [ui] Executing clone: git -c init.defaultBranch=main clone --recursive --progress -- https://github.com/DouglasMedeiros1/ArchLinux-Setup.git /home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup (took 1.076s)
+2025-08-15T22:32:34.447Z - info: [ui] [AppStore] adding repository at /home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup to store
+2025-08-15T22:32:35.276Z - info: [ui] [BranchPruner] No branches to prune.
+2025-08-15T22:33:13.172Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-08-15T22:33:13.985Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-08-15T22:33:14.408Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.8s of which 0.0s paused, total 1.8s
+2025-08-15T22:34:09.757Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.074s
+2025-08-15T22:45:48.602Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.075s
+2025-08-15T22:48:05.940Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.074s
+2025-08-15T22:48:20.594Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.103s
+2025-08-15T22:48:49.292Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.4s of which 7.2s paused, total 7.6s
+2025-08-15T22:50:12.297Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.070s
+2025-08-15T22:50:44.523Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.072s
+2025-08-15T22:50:55.397Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.067s
+2025-08-15T22:51:07.172Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-08-15T22:51:07.175Z - info: [ui] [AppStore] found account: DouglasMedeiros1 (Douglas F. Medeiros)
+2025-08-15T22:51:07.203Z - info: [ui] [BranchPruner] Last prune took place 19 minutes ago - skipping
+2025-08-15T22:51:07.433Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.0-arch2-1)
+2025-08-15T22:51:07.441Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-08-15T22:51:07.814Z - info: [ui] Subscribed 'DouglasMedeiros1' to Alive channel
+2025-08-15T22:51:27.308Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.073s
+2025-08-15T22:51:45.508Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 16.510s)
+2025-08-15T22:51:50.414Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-08-15T22:54:04.970Z - info: [ui] Executing push: git push origin main:main --progress (took 134.912s)
+2025-08-15T22:54:04.973Z - error: [ui] `git push origin main:main --progress` exited with an unexpected code: 1.
+6/966), done.
+Writing objects: 100% (1066/1066), 424.51 MiB | 28.68 MiB/s, done.
+Total 1066 (delta 328), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (328/328), done.        
+remote: error: Trace: 470a946b4032ee68b0e9c13ae7ce6dfe6658b2c047b657eaf0c3ce62a929fbb3        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File setup/config/Code/CachedExtensionVSIXs/oracle.oracle-java-24.0.0 is 145.46 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File setup/config/Code/CachedExtensionVSIXs/redhat.java-1.44.0-linux-x64 is 124.15 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/DouglasMedeiros1/ArchLinux-Setup.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/DouglasMedeiros1/ArchLinux-Setup.git'
+
+(The error was parsed as 42: The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again.)
+2025-08-15T22:54:38.272Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.071s
+2025-08-15T22:55:12.882Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 1.241s)
+2025-08-15T22:55:13.018Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 1.457s
+2025-08-15T22:55:14.785Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-08-15T22:55:59.825Z - info: [ui] Executing push: git push origin main:main --progress (took 45.472s)
+2025-08-15T22:56:00.150Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store
+2025-08-15T22:56:00.834Z - info: [ui] credential-helper: found GitHub credential for https://github.com/ in store

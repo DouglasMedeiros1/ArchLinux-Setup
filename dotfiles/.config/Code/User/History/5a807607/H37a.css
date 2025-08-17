@@ -1,0 +1,273 @@
+/**********************************************
+NWG-PANEL THEME: Minimal Modular Dark (Nord-like)
+
+    Caixas soltas (pills)
+    Cantos arredondados
+    Submenus / tooltips bonitos
+    Esconde a barra inferior (ver nota)
+    **********************************************/
+
+/* BASE GLOBAL */
+* {
+font-family: "JetBrainsMono Nerd Font", monospace;
+font-size: 12;
+-gtk-icon-sizes: "panel=16,16";
+color: #e6eef3;
+}
+
+window {
+background: transparent; /* fundo transparente: blur do compositor faz o resto */
+color: #e6eef3;
+}
+
+/* --------------------------------------------------
+
+    PAINÉIS
+
+    Se você tiver um painel inferior chamado #panel-bottom,
+    ele ficará escondido por CSS (mas o ideal é remover via config).
+    --------------------------------------------------*/
+    #panel-top {
+    background: transparent;
+    padding: 6px 10px;
+    margin: 6px;
+    }
+
+#panel-bottom {
+  /* esconder a barra inferior por CSS caso exista */
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+  pointer-events: none;
+  display: none; /* tenta remover do fluxo */
+}
+
+/* --------------------------------------------------
+2) PILL - cada widget vira uma caixinha solta
+--------------------------------------------------/
+button,
+
+#task-box,
+
+#workspaces,
+
+#clock,
+
+#weather,
+
+#executor,
+
+#pulseaudio,
+
+#network,
+
+#battery {
+
+background: rgba(28, 30, 34, 0.56); /* semi-transparente */
+
+border-radius: 12px;
+
+padding: 6px 12px;
+
+margin: 0 6px;
+
+min-height: 28px;
+
+-gtk-icon-shadow: none;
+
+transition: background 160ms ease, transform 120ms ease;
+
+box-shadow: 0 6px 18px rgba(0,0,0,0.25); /* leve profundidade */
+
+backdrop-filter: blur(6px); /* notar: pode ou não ser suportado pelo CSS do tema, blur real vem do compositor */
+}
+
+/* Hover / focus */
+button:hover,
+#task-box:hover,
+#workspaces:hover,
+#clock:hover,
+#pulseaudio:hover,
+#network:hover,
+#battery:hover {
+background: rgba(44, 46, 50, 0.85);
+transform: translateY(-2px);
+}
+
+/* Active / focused pills /
+#task-box-focused,
+#workspaces button.active,
+#dwl-tag-selected {
+background: rgba(129, 161, 193, 0.16); / azul suave */
+color: #f7fbff;
+border: 1px solid rgba(129,161,193,0.28);
+}
+
+/* Texto e ícones nas pills */
+#task-box,
+#workspaces,
+#clock,
+#weather,
+#executor {
+color: #e6eef3;
+font-size: 13px;
+}
+
+/* Pequena margem entre agrupamentos (espaçamento modular) */
+#left,
+#center,
+#right {
+display: flex;
+align-items: center;
+gap: 6px;
+}
+
+/* --------------------------------------------------
+3) TASKS / WORKSPACES (dwl-tags)
+--------------------------------------------------*/
+#task-box {
+padding-left: 8px;
+padding-right: 8px;
+margin-left: 4px;
+margin-right: 4px;
+border-radius: 10px;
+background: rgba(26,26,26,0.5);
+}
+
+#task-box-focused {
+background-color: rgba(100,100,100,0.7);
+color: #ffffff;
+padding-left: 8px;
+padding-right: 8px;
+border-radius: 10px;
+}
+
+/* DWL tags */
+#dwl-tag-box {
+padding-top: 4px;
+padding-bottom: 4px;
+display: flex;
+gap: 6px;
+}
+
+#dwl-tag-occupied,
+#dwl-tag-free,
+#dwl-tag-urgent {
+font-family: monospace;
+color: #e6eef3;
+padding: 4px 8px;
+border-radius: 8px;
+min-width: 22px;
+text-align: center;
+}
+
+/* cores por estado (são sutis para manter minimal) /
+#dwl-tag-occupied { background-color: rgba(6, 102, 153, 0.95); } / azul /
+#dwl-tag-free { background-color: rgba(36, 48, 76, 0.98); } / cinza-azulado /
+#dwl-tag-urgent { background-color: rgba(238, 102, 0, 0.95); } / laranja */
+
+/* tag selecionada com borda */
+#dwl-tag-selected {
+border: 2px solid rgba(129,161,193,0.85);
+border-radius: 8px;
+padding: 2px 6px;
+}
+
+/* --------------------------------------------------
+4) CLOCK / WEATHER / EXECUTOR (pop-ups bonitos)
+--------------------------------------------------*/
+#clock,
+#weather,
+#executor-label {
+font-family: monospace;
+font-size: 14px;
+padding: 6px 10px;
+border-radius: 10px;
+background: rgba(28, 30, 34, 0.6);
+backdrop-filter: blur(6px);
+}
+
+#clock:hover, #weather:hover, #executor-label:hover {
+background: rgba(40, 42, 46, 0.85);
+}
+
+/* --------------------------------------------------
+5) CONTROLS / SLIDERS / POPUPS
+--------------------------------------------------*/
+#controls-window,
+#brightness-popup,
+#volume-popup,
+#popup {
+border-radius: 14px;
+background: rgba(36, 38, 48, 0.94);
+color: #e6eef3;
+padding: 10px;
+box-shadow: 0 18px 40px rgba(0,0,0,0.45);
+border: 1px solid rgba(255,255,255,0.04);
+}
+
+/* mais espaço no conteúdo interno dos popups */
+#controls-window scale value,
+#brightness-popup box,
+#popup box {
+padding: 10px;
+color: #e6eef3;
+}
+
+/* sliders - aparência limpa /
+scale slider,
+scale trough,
+scale slider:hover {
+/ use o estilo nativo ou do seu GTK; estas regras são genéricas */
+background: rgba(255,255,255,0.06);
+}
+
+/* --------------------------------------------------
+6) TOOLTIP / SUBMENU
+--------------------------------------------------*/
+tooltip,
+menu,
+.popup-menu,
+#menu {
+background: rgba(20,20,24,0.92);
+color: #e6eef3;
+padding: 8px 10px;
+border-radius: 12px;
+border: 1px solid rgba(255,255,255,0.04);
+box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+min-width: 160px;
+}
+
+/* itens de menu */
+menu item,
+.popup-menu item,
+menu row {
+padding: 8px 10px;
+border-radius: 8px;
+transition: background 120ms ease;
+}
+
+menu item:hover,
+.popup-menu item:hover {
+background: rgba(255,255,255,0.03);
+}
+
+/* títulos dentro do menu */
+.menu-title,
+.popup-title {
+font-weight: 600;
+margin-bottom: 6px;
+color: #dfe7ef;
+}
+
+/* --------------------------------------------------
+7) PEQUENAS AJUSTES VISUAIS
+--------------------------------------------------*/
+#executor-label { font-size: 13px; }
+#weather { font-size: 13px; }
+
+.separator { opacity: 0.07; margin: 0 8px; height: 28px; }
+
+/* fallback para garantir legibilidade em temas que forcem cores */
+*:not(window) { color: inherit !important; }

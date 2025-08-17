@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/douglas-linuxvm/Downloads/wallpaperr.png" added="2025-08-14T22:27:49.788000Z" modified="2025-08-14T22:27:49.788000Z" visited="2025-08-14T22:27:49.788000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-08-14T22:27:49.788000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/Downloads/Cursor-1.4.2-x86_64.AppImage" added="2025-08-14T23:03:22.953466Z" modified="2025-08-14T23:03:22.953470Z" visited="2025-08-14T23:03:22.953467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-14T23:03:22.953468Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/pacman-packages.txt" added="2025-08-15T16:13:29.992052Z" modified="2025-08-15T16:13:29.992059Z" visited="2025-08-15T16:13:29.992053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-08-15T16:13:29.992054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/setup" added="2025-08-15T18:02:46.708208Z" modified="2025-08-15T21:24:52.736521Z" visited="2025-08-15T18:02:46.708208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-15T21:24:52.736518Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/setup/dotfiles/mimeapps.list" added="2025-08-15T21:08:44.564681Z" modified="2025-08-15T21:08:44.564686Z" visited="2025-08-15T21:08:44.564682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-08-15T21:08:44.564683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/Downloads/Github-Rep" added="2025-08-15T22:32:30.990956Z" modified="2025-08-15T22:32:30.990960Z" visited="2025-08-15T22:32:30.990957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2025-08-15T22:32:30.990958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup/README.md" added="2025-08-17T19:42:52.552720Z" modified="2025-08-17T19:45:26.792983Z" visited="2025-08-17T19:42:52.552720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-08-17T19:45:26.792980Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup/setup/config/hypr/hyprland.conf" added="2025-08-17T19:43:13.169102Z" modified="2025-08-17T19:43:13.169107Z" visited="2025-08-17T19:43:13.169103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-08-17T19:43:13.169104Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/.config/nwg-panel" added="2025-08-17T20:42:32.984795Z" modified="2025-08-17T21:19:20.408519Z" visited="2025-08-17T20:42:32.984796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-17T21:19:20.408497Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/.config" added="2025-08-17T21:23:56.167318Z" modified="2025-08-17T21:59:38.846307Z" visited="2025-08-17T21:23:56.167318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-17T21:59:38.846298Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup/setup/config/hypr" added="2025-08-17T21:57:45.588208Z" modified="2025-08-17T21:57:45.588212Z" visited="2025-08-17T21:57:45.588209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-08-17T21:57:45.588210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,43 @@
+2025-08-14 23:37:51.437 [info] Extension host with pid 108551 started
+2025-08-14 23:37:51.589 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-14 23:37:51.791 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-14 23:37:51.827 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-14 23:37:51.928 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-14 23:37:52.246 [info] Eager extensions activated
+2025-08-14 23:37:52.342 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:37:52.349 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:38:19.179 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-14 23:38:46.468 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:38:47.101 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:38:52.237 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:38:53.438 [error] Error: GitHubLoginFailed
+    at hO._authShowWarnings (/home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1/dist/extension.js:552:55513)
+    at hO.getCopilotToken (/home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1/dist/extension.js:552:54052)
+    at Z4.getCopilotToken (/home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1/dist/extension.js:418:24130)
+    at Ov._fetchModels (/home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1/dist/extension.js:2539:4949)
+    at Ov.getAllChatModels (/home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1/dist/extension.js:2539:2710)
+    at g8.getAllChatEndpoints (/home/douglas-linuxvm/.vscode/extensions/github.copilot-chat-0.30.1/dist/extension.js:2539:15672)
+2025-08-14 23:39:00.151 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2025-08-14 23:39:01.527 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-08-14 23:39:02.301 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-08-14 23:39:02.394 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'api', root cause: ms-python.vscode-pylance
+2025-08-14 23:39:19.378 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:39:23.100 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:39:35.570 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-14 23:39:35.585 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-14 23:39:35.690 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-14 23:40:06.714 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-14 23:40:29.607 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-14 23:40:29.855 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.K [as deactivate] (/home/douglas-linuxvm/.vscode/extensions/ms-python.vscode-python-envs-1.2.0-linux-x64/dist/extension.js:2:618887)
+    at LZ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at LZ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at LZ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at E3.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at ws (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:10154)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:388:6693)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-08-14 23:40:29.872 [info] Extension host with pid 108551 exiting with code 0

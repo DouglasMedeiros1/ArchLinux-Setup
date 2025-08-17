@@ -1,0 +1,43 @@
+{
+    "$fdo_created": "1755297000",
+    "$fdo_modified": "1755464595",
+    "Brave Keys/Brave Safe Storage": {
+        "$fdo_created": "1755464595",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1755464595",
+        "attributes": {
+            "server": "Brave Keys",
+            "type": "plaintext",
+            "user": "Brave Safe Storage",
+            "xdg:schema": "org.qt.keychain"
+        }
+    },
+    "GitHub - https://api.github.com/DouglasMedeiros1": {
+        "$fdo_created": "1755297081",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1755297081",
+        "attributes": {
+            "account": "DouglasMedeiros1",
+            "service": "GitHub - https://api.github.com",
+            "xdg:schema": "org.freedesktop.Secret.Generic"
+        }
+    },
+    "Secret Service/Brave Safe Storage": {
+        "$fdo_created": "1755297018",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1755297018",
+        "attributes": {
+            "application": "brave",
+            "xdg:schema": "chrome_libsecret_os_crypt_password_v2"
+        }
+    },
+    "Secret Service/Chrome Safe Storage Control": {
+        "$fdo_created": "1755297018",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1755297018",
+        "attributes": {
+            "explanation": "Because of quirks in the gnome libsecret API, Chrome needs to store a dummy entry to guarantee that this keyring was properly unlocked. More details at http://crbug.com/660005.",
+            "xdg:schema": "_chrome_dummy_schema_for_unlocking"
+        }
+    }
+}

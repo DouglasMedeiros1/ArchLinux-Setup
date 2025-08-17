@@ -1,0 +1,10 @@
+{
+  "layer": "top",
+  "modules-left": ["workspaces", "custom/launcher"],
+  "modules-center": ["clock"],
+  "modules-right": ["cpu", "memory", "battery", "network", "pulseaudio", "tray"],
+  "custom/launcher": {
+    "format": "",
+    "on-click": "wofi --show drun"
+  }
+}

@@ -1,0 +1,59 @@
+2025-08-17T21:55:12.516Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name is not activatable
+2025-08-17T21:55:12.531Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-08-17T21:55:13.347Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.1-arch1-1)
+2025-08-17T21:55:13.353Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-08-17T21:55:13.918Z - info: [ui] Stats reported.
+2025-08-17T21:55:14.151Z - info: [ui] Executing getChangesFiles: git log 5f4ba3811e4bef8f3595b8488b255845e91d1dd0 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.365s)
+2025-08-17T21:55:34.479Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-08-17T21:55:34.494Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-08-17T22:05:06.986Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-08-17T22:05:07.025Z - info: [ui] [BranchPruner] Last prune took place 10 minutes ago - skipping
+2025-08-17T22:05:07.378Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.1-arch1-1)
+2025-08-17T22:05:07.390Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-08-17T22:05:08.684Z - info: [ui] Executing getChangesFiles: git log 5f4ba3811e4bef8f3595b8488b255845e91d1dd0 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.570s)
+2025-08-17T22:05:20.969Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.480s
+2025-08-17T22:05:21.618Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-08-17T22:05:21.639Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-08-17T22:05:33.957Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.370s
+2025-08-17T22:05:49.394Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.537s
+2025-08-17T22:06:06.198Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 0.510s
+2025-08-17T22:06:40.632Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 4.884s)
+2025-08-17T22:06:42.013Z - info: [ui] Executing createCommit: git commit -F - (took 1.347s)
+2025-08-17T22:06:42.115Z - info: [ui] [Timing] Action 'create commit' for 'DouglasMedeiros1/ArchLinux-Setup' took 6.799s
+2025-08-17T22:06:48.752Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-17T22:06:48.756Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=f5fdbb8a-2b94-41bb-8eba-0c0cc6feeb23
+2025-08-17T22:06:58.431Z - info: [main] Received possible protocol arguments: 3
+2025-08-17T22:06:58.436Z - info: [main] Processing protocol url
+2025-08-17T22:06:58.552Z - info: [main] Received possible protocol arguments: 2
+2025-08-17T22:06:58.583Z - info: [main] Processing protocol url
+2025-08-17T22:06:59.528Z - info: [ui] [SignInStore] account resolved
+2025-08-17T22:06:59.529Z - info: [ui] [AppStore] adding account DouglasMedeiros1 (Douglas F. Medeiros) to store
+2025-08-17T22:06:59.550Z - error: [ui] Error adding account 'DouglasMedeiros1'
+Error: The name is not activatable
+2025-08-17T22:08:05.869Z - info: [ui] Executing push: git push origin main:main --progress (took 81.529s)
+2025-08-17T22:16:25.206Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-17T22:16:25.221Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=8af300d2-fbd4-4a01-991f-8fcedab171f3
+2025-08-17T22:17:13.669Z - info: [main] Received possible protocol arguments: 3
+2025-08-17T22:17:13.670Z - info: [main] Processing protocol url
+2025-08-17T22:17:14.674Z - info: [ui] [SignInStore] account resolved
+2025-08-17T22:17:14.687Z - info: [ui] [AppStore] adding account DouglasMedeiros1 (Douglas F. Medeiros) to store
+2025-08-17T22:17:14.710Z - error: [ui] Error adding account 'DouglasMedeiros1'
+Error: The name is not activatable
+2025-08-17T22:17:15.476Z - info: [ui] Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 549.596s)
+2025-08-17T22:17:33.477Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-08-17T22:17:33.481Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=68980965-9a19-48bc-8e9b-aea3a470f14f
+2025-08-17T22:17:37.098Z - info: [main] Received possible protocol arguments: 3
+2025-08-17T22:17:37.099Z - info: [main] Processing protocol url
+2025-08-17T22:17:37.211Z - info: [main] Received possible protocol arguments: 2
+2025-08-17T22:17:37.221Z - info: [main] Processing protocol url
+2025-08-17T22:17:38.548Z - info: [ui] [SignInStore] account resolved
+2025-08-17T22:17:38.557Z - info: [ui] [AppStore] adding account DouglasMedeiros1 (Douglas F. Medeiros) to store
+2025-08-17T22:17:38.563Z - error: [ui] Error adding account 'DouglasMedeiros1'
+Error: The name is not activatable
+2025-08-17T22:17:39.154Z - info: [ui] Executing updateRemoteHEAD: git remote set-head -a origin (took 23.671s)
+2025-08-17T22:17:56.223Z - info: [ui] Executing getChangesFiles: git log ceebfe9dc3af110d5e188a56a9e033c53732e115 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 2.916s)
