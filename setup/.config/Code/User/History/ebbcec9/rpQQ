@@ -1,0 +1,3 @@
+# Ignorar arquivos grandes de extensões do VSCode
+**/cachedExtensionVSIXs/oracle-java*
+**/cachedExtensionVSIXs/redhat-java*

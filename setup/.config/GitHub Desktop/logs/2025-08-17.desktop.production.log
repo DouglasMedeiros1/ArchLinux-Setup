@@ -1,0 +1,11 @@
+2025-08-17T21:55:12.516Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name is not activatable
+2025-08-17T21:55:12.531Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-08-17T21:55:13.347Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.16.1-arch1-1)
+2025-08-17T21:55:13.353Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2025-08-17T21:55:13.918Z - info: [ui] Stats reported.
+2025-08-17T21:55:14.151Z - info: [ui] Executing getChangesFiles: git log 5f4ba3811e4bef8f3595b8488b255845e91d1dd0 -C -M -m -1 --no-show-signature --first-parent --raw --format=format: --numstat -z -- (took 1.365s)
+2025-08-17T21:55:34.479Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-08-17T21:55:34.494Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+

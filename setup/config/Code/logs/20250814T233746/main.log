@@ -1,6 +1,0 @@
-2025-08-14 23:37:46.835 [info] update#setState idle
-2025-08-14 23:38:16.801 [info] update#setState checking for updates
-2025-08-14 23:38:17.019 [info] update#setState available for download
-2025-08-14 23:40:29.639 [error] CodeWindow: renderer process gone (reason: killed, code: 9)
-2025-08-14 23:40:29.876 [info] Extension host with pid 108551 exited with code: 0, signal: unknown.
-2025-08-14 23:42:28.026 [info] Extension host with pid 109752 exited with code: 0, signal: unknown.

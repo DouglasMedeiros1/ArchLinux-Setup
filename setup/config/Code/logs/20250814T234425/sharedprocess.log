@@ -1,7 +1,0 @@
-2025-08-14 23:44:42.324 [info] Getting Manifest... msjsdiag.vscode-react-native
-2025-08-14 23:44:42.452 [info] Installing extension: msjsdiag.vscode-react-native {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json","path":"/home/douglas-linuxvm/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.0","date":"2025-08-06T21:40:10.271Z"}}
-2025-08-14 23:44:42.922 [info] Getting Manifest... ms-vscode.js-debug
-2025-08-14 23:44:49.048 [info] Extension signature verification result for msjsdiag.vscode-react-native: Success. Internal Code: 0. Executed: true. Duration: 1230ms.
-2025-08-14 23:44:49.817 [info] Extracted extension to file:///home/douglas-linuxvm/.vscode/extensions/msjsdiag.vscode-react-native-1.13.0: msjsdiag.vscode-react-native
-2025-08-14 23:44:49.837 [info] Renamed to /home/douglas-linuxvm/.vscode/extensions/msjsdiag.vscode-react-native-1.13.0
-2025-08-14 23:44:49.929 [info] Extension installed successfully: msjsdiag.vscode-react-native vscode-userdata:/home/douglas-linuxvm/.vscode/extensions/extensions.json

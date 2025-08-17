@@ -1,0 +1,4 @@
+2025-08-17 18:36:57.341 [info] update#setState idle
+2025-08-17 18:37:26.333 [info] update#setState checking for updates
+2025-08-17 18:37:26.563 [info] update#setState available for download
+2025-08-17 18:38:49.343 [error] webContents#will-navigate: Prevented webcontent navigation

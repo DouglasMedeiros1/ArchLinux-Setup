@@ -1,0 +1,155 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "e7a47ca6d42a76149c961256b79808eb32f73f76de240d15d609f9ecd20dc33a",
+    "telemetry.devDeviceId": "ca08735c-2edf-4dcc-9c36-509199272cec",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup"
+            },
+            {
+                "folderUri": "file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup/setup/config/hypr"
+            },
+            {
+                "folderUri": "file:///home/douglas-linuxvm/.config/hypr"
+            },
+            {
+                "folderUri": "file:///home/douglas-linuxvm/.config"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1755467841263"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/douglas-linuxvm/setup": "__default__profile__",
+            "file:///": "__default__profile__",
+            "file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup": "__default__profile__",
+            "file:///home/douglas-linuxvm/Downloads/Github-Rep/Hyperland": "__default__profile__",
+            "file:///home/douglas-linuxvm/.config/hypr": "__default__profile__",
+            "file:///home/douglas-linuxvm": "__default__profile__",
+            "file:///home/douglas-linuxvm/.config/nwg-panel": "__default__profile__",
+            "file:///home/douglas-linuxvm/.config": "__default__profile__",
+            "file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup/setup/config/hypr": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1755467841263": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/douglas-linuxvm/.config",
+            "backupPath": "/home/douglas-linuxvm/.config/Code/Backups/e8ca108729a13cb75c47b51fa92fafc0",
+            "uiState": {
+                "mode": 1,
+                "x": 966,
+                "y": 50,
+                "width": 933,
+                "height": 1009
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///home/douglas-linuxvm/Downloads/Github-Rep/ArchLinux-Setup",
+                "backupPath": "/home/douglas-linuxvm/.config/Code/Backups/2dab125358c9bf4a051eeae40d44476a",
+                "uiState": {
+                    "mode": 1,
+                    "x": 21,
+                    "y": 50,
+                    "width": 933,
+                    "height": 1009
+                }
+            },
+            {
+                "folder": "file:///home/douglas-linuxvm/.config",
+                "backupPath": "/home/douglas-linuxvm/.config/Code/Backups/e8ca108729a13cb75c47b51fa92fafc0",
+                "uiState": {
+                    "mode": 1,
+                    "x": 966,
+                    "y": 50,
+                    "width": 933,
+                    "height": 1009
+                }
+            }
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#22272e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#adbac7",
+            "background": "#22272e",
+            "editorBackground": "#22272e",
+            "titleBarBackground": "#22272e",
+            "titleBarBorder": "#444c56",
+            "activityBarBackground": "#22272e",
+            "activityBarBorder": "#444c56",
+            "sideBarBackground": "#1c2128",
+            "sideBarBorder": "#444c56",
+            "statusBarBackground": "#22272e",
+            "statusBarBorder": "#444c56",
+            "statusBarNoFolderBackground": "#22272e"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "099d7d74ab10afae9a1ca9c9800f8b5e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a457f0e3d162d8f8aadf2d0e621623e7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "83a32fd395a973e10349aec1635469df": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "cf5fb7e311e44169bf8643ebc08b6eaf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4e0d546b98d8f1f233fb4189498de0e1": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "23b81991ea6a482c68f72684f8704dbf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "fc774da1da4c8f440b9909885757f081": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "9fd3c323f8f3efbae727dbc779eb35fc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "8d87c1fbeff9a9a1f6c1c40558ed187c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

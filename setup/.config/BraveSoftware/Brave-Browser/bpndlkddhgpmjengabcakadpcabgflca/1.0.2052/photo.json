@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "8516addc-bf24-488d-a1a3-9036a25d433b",
+      "logo": {
+        "imageUrl": "62ff954e-60af-4207-923e-b5615af0f5e2/a07f3fd3-25be-40ae-b173-cc0c7298f883.png",
+        "destinationUrl": "https://www.ether.fi/cash-crypto-cashback-campaign?utm_source=Brave%20Browser&utm_medium=NTT&utm_campaign=Cash%20Signups&utm_content=bravecreative2-3-5back",
+        "alt": "EtherFi - Keep your coins - spend with ether.fi cash - Learn More",
+        "companyName": "EtherFi"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "62ff954e-60af-4207-923e-b5615af0f5e2/9dd4ed41-1418-4562-8754-80119a1a8629.jpg",
+          "creativeInstanceId": "ebaa1b72-b863-431e-bad6-8c8383dc163d",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "7e0c8baa-cf29-428b-862d-39953040084e/4a3b24f0-6477-426d-b0f0-d54e46d2765e.jpg",
+          "creativeInstanceId": "41c69526-9eed-4443-b245-89e1d1c614ad",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "7e0c8baa-cf29-428b-862d-39953040084e/a45d9704-3afb-49a3-80d8-1560e9d911b1.png",
+            "destinationUrl": "https://www.ether.fi/cash-crypto-cashback-campaign?utm_source=Brave%20Browser&utm_medium=NTT&utm_campaign=Cash%20Signups&utm_content=bravecreative1-3-5back",
+            "alt": "EtherFi - Mint, Spend, Earn - Full service for the crypto-native - Learn More",
+            "companyName": "EtherFi"
+          }
+        },
+        {
+          "imageUrl": "ad420e01-6657-48ba-948a-c58e85029c8b/44c7031b-cb11-45ff-b806-e65ca6c834b6.jpg",
+          "creativeInstanceId": "bc3bb5ed-2b73-4404-b28d-130d0fb1d4f9",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "ad420e01-6657-48ba-948a-c58e85029c8b/1fa731da-0274-4fa3-a05e-ad4855899ac8.png",
+            "destinationUrl": "https://www.ether.fi/cash-crypto-cashback-campaign?utm_source=Brave%20Browser&utm_medium=NTT&utm_campaign=Cash%20Signups&utm_content=bravecreative4-3-5back",
+            "alt": "EtherFi - Cash Card Holders earn 5% cashback and up to 60% off travel - Learn More",
+            "companyName": "EtherFi"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "8516addc-bf24-488d-a1a3-9036a25d433b",
+      "logo": {
+        "imageUrl": "62ff954e-60af-4207-923e-b5615af0f5e2/a07f3fd3-25be-40ae-b173-cc0c7298f883.png",
+        "destinationUrl": "https://www.ether.fi/cash-crypto-cashback-campaign?utm_source=Brave%20Browser&utm_medium=NTT&utm_campaign=Cash%20Signups&utm_content=bravecreative2-3-5back",
+        "alt": "EtherFi - Keep your coins - spend with ether.fi cash - Learn More",
+        "companyName": "EtherFi"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "62ff954e-60af-4207-923e-b5615af0f5e2/9dd4ed41-1418-4562-8754-80119a1a8629.jpg",
+          "creativeInstanceId": "ebaa1b72-b863-431e-bad6-8c8383dc163d",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "7e0c8baa-cf29-428b-862d-39953040084e/4a3b24f0-6477-426d-b0f0-d54e46d2765e.jpg",
+          "creativeInstanceId": "41c69526-9eed-4443-b245-89e1d1c614ad",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "7e0c8baa-cf29-428b-862d-39953040084e/a45d9704-3afb-49a3-80d8-1560e9d911b1.png",
+            "destinationUrl": "https://www.ether.fi/cash-crypto-cashback-campaign?utm_source=Brave%20Browser&utm_medium=NTT&utm_campaign=Cash%20Signups&utm_content=bravecreative1-3-5back",
+            "alt": "EtherFi - Mint, Spend, Earn - Full service for the crypto-native - Learn More",
+            "companyName": "EtherFi"
+          }
+        },
+        {
+          "imageUrl": "ad420e01-6657-48ba-948a-c58e85029c8b/44c7031b-cb11-45ff-b806-e65ca6c834b6.jpg",
+          "creativeInstanceId": "bc3bb5ed-2b73-4404-b28d-130d0fb1d4f9",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "ad420e01-6657-48ba-948a-c58e85029c8b/1fa731da-0274-4fa3-a05e-ad4855899ac8.png",
+            "destinationUrl": "https://www.ether.fi/cash-crypto-cashback-campaign?utm_source=Brave%20Browser&utm_medium=NTT&utm_campaign=Cash%20Signups&utm_content=bravecreative4-3-5back",
+            "alt": "EtherFi - Cash Card Holders earn 5% cashback and up to 60% off travel - Learn More",
+            "companyName": "EtherFi"
+          }
+        }
+      ]
+    }
+  ]
+}

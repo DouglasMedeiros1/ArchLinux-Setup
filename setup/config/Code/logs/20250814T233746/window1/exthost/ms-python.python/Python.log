@@ -1,6 +1,0 @@
-2025-08-14 23:39:00.840 [info] Experiment 'pythonSurveyNotification' is active
-2025-08-14 23:39:00.865 [info] Native locator: Refresh started
-2025-08-14 23:39:00.971 [info] Native locator: Refresh started
-2025-08-14 23:39:01.495 [info] Native locator: Refresh finished in 626 ms
-2025-08-14 23:39:01.523 [info] Python interpreter path: /usr/bin/python
-2025-08-14 23:39:05.510 [info] Starting Pylance language server.
